@@ -1,3 +1,4 @@
 Controlador
 
 Função 1
+Função 2
